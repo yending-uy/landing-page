@@ -1,25 +1,14 @@
 ---
 layout: blocks
 title: yending
-date: 2017-11-22T23:00:00.000+00:00
+date: 2021-12-22T23:00:00.000+00:00
 page_sections:
   - template: navigation-header-w-button
     block: header-2
     logo: "/uploads/2018/06/21/yending-full.svg"
-    navigation:
-      - link: "/"
-        link_text: Ubuild
-      - link: "#swap"
-        link_text: Swap
-      - link: "#customize"
-        link_text: Customize
-      - link: "#responsive"
-        link_text: Responsive
-      - link: "#blocks"
-        link_text: Blocks
     cta:
-      url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-      button_text: Import
+      url: https://t.me/yendingbot
+      button_text: Viajar
   - template: hero-banner-w-image
     block: hero-2
     slug: features
@@ -40,35 +29,37 @@ page_sections:
     media_alignment: Left
     slug: swap
     headline:
-      <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-      class="light">the Blocks to create sites quickly</span>
+      <strong>Solicitá tu viaje<span class="light">&nbsp;</span></strong><span
+      class="light">a nuestro bot en Telegram</span>
     content:
-      Quickly assemble and create custom sites with 16 design blocks for seven
-      different sections.
+      Seleccioná tu lugar de origen y destino. <br>
+      Yending buscará un auto que tenga asientos disponibles con tus requisitos. 
+      <br>
+      <br>
+      *Válido para viajes de más de 100kms. 
     media:
-      image: "/uploads/2018/06/21/blocks-split.png"
-      alt_text: uBuild Blocks Mock-Up
+      image: "/uploads/2018/06/21/girls-telegram.png"
+      alt_text: Dos jóvenes sentadas en un auto
   - template: content-feature
     block: feature-1
     media_alignment: Right
     slug: customize
     headline:
-      <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-      edits throughout your new site</span>
+      <strong>Gastá menos</strong><span class="light">&nbsp;en tu viaje </span>
     content:
-      Each block comes with custom Front Matter that can be edited in
-      Forestry CMS.
+      Ocupá los lugares libres de tu auto. <br>
+      Los pasajeros pagarán una tarifa para cubrir tus gastos de combustible y peajes. <br>
+      Seleccioná si aceptas mascotas y maletas en tu viaje. 
     media:
-      image: "/uploads/2018/06/21/edit.gif"
-      alt_text: Customize Blocks
+      image: "/uploads/2018/06/21/rider.png"
+      alt_text: Hombre sentado en un auto. 
   - template: 1-column-text
     block: one-column-1
     slug: responsive
-    headline: 16 Fully Responsive Design Blocks
+    headline: Tarifas pre-establecidas y fijas
     content: |
-      The Design Blocks can be used without Forestry but to harness the power
-      of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
-      create new sites and make them fully customizable.
+      El pasajero abonará el trayecto antes de la partida a través de MercadoPago. 
+      <br>Yending transferirá la tarifa al conducto una vez se haya completado el trayecto. 
   - template: full-width-media-element
     block: media-1
     image: "/uploads/2018/06/21/theme.png"
