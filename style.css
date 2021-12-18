@@ -1,3 +1,17 @@
 .block-hero-2 {
     background-color: #3C79F5 !important;
 }
+.button-primary {
+    background-color: #3C79F5 !important;;
+}
+.block-header-2--cta {
+    background-color: #3C79F5 !important;
+}
+
+.button.primary.inverted {
+    background-color: #F53C79;
+    color: #fff;
+}
+.block-header-2--logo {
+    align-self: center !important;
+}
