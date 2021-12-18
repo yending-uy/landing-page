@@ -1,11 +1,11 @@
 ---
 layout: blocks
-title: Homepage
+title: yending
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
   - template: navigation-header-w-button
     block: header-2
-    logo: "/uploads/2020/yending-blue.svg"
+    logo: "/uploads/2018/06/21/yending-full.svg"
     navigation:
       - link: "/"
         link_text: Ubuild
@@ -23,16 +23,16 @@ page_sections:
   - template: hero-banner-w-image
     block: hero-2
     slug: features
-    headline: uBuild <br><strong>design blocks</strong>
+    headline: Compartí viaje con <br><strong>yending</strong>
     content:
-      The tool that allows you to build beautiful sites<br>all inside Forestry's
-      content manager.
+      ¿Te sobra un asiento en tu auto? <br><strong> Dividí los gastos de tu viaje.</strong> <br>
+      ¿Querés viajar más cómodo?<br> <strong> Vamos yending.</strong>
     cta:
       enabled: true
-      url: https://github.com/forestryio/ubuild-jekyll
-      button_text: "See on GitHub "
+      url: https://t.me/yendingbot
+      button_text: "Pedir viaje"
     image:
-      image: "/uploads/2018/06/21/product-shot-1.png"
+      image: "/uploads/2018/06/21/mockup.png"
       alt_text: Product Shot
     background_image: "/uploads/2018/06/21/hero-2-bg.png"
   - template: content-feature
@@ -82,5 +82,5 @@ page_sections:
       article</a> and create your own Blocks.</p></li><li><p>Add and customize the available Blocks and preview them as you go along.</p></li></ol>
   - template: simple-footer
     block: footer-1
-    content: Made with ❤︎ in Canada
+    content: Made with ❤︎ in Uruwhy
 ---
