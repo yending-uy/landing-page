@@ -76,10 +76,10 @@ page_sections:
     slug: blocks
   - template: detail-content
     block: text-1
-    headline: Steps to Build a Site!
+    headline: Formas de contacto
     content:
-      <p>uBuild is an open-source Jekyll based demo that doubles as a builder tool inside the Forestry content manager.</p><ol><li><p><a href="https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll">Import this demo in Forestry</a>.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-      article</a> and create your own Blocks.</p></li><li><p>Add and customize the available Blocks and preview them as you go along.</p></li></ol>
+      <p>Podés contactarnos a través de los siguientes medios:</p><ol><l i><p>Telegram</a>.</p></li>
+      <li><p>Instagram</p></li><li><p>Mail.</p></li></ol>
   - template: simple-footer
     block: footer-1
     content: Made with ❤︎ in Uruwhy
