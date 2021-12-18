@@ -14,7 +14,7 @@ page_sections:
     slug: features
     headline: Compartí viaje con <br><strong>yending</strong>
     content:
-      ¿Te sobra un asiento en tu auto? <br><strong> Dividí los gastos de tu viaje.</strong> <br>
+      ¿Te sobra espacio en tu auto? <br><strong> Dividí los gastos de tu viaje.</strong> <br>
       ¿Querés viajar más cómodo?<br> <strong> Vamos yending.</strong>
     cta:
       enabled: true
@@ -62,16 +62,16 @@ page_sections:
       <br>Yending transferirá la tarifa al conducto una vez se haya completado el trayecto. 
   - template: full-width-media-element
     block: media-1
-    image: "/uploads/2018/06/21/theme.png"
-    caption: All Available Blocks
+    image: "/uploads/2018/06/21/tarifas.png"
+    caption: Costo por km = $xx
     slug: blocks
   - template: detail-content
     block: text-1
     headline: Formas de contacto
     content:
-      <p>Podés contactarnos a través de los siguientes medios:</p><ol><l i><p>Telegram</a>.</p></li>
+      <p>Podés contactarnos a través de los siguientes medios:</p><ol><li><p>Telegram</a>.</p></li>
       <li><p>Instagram</p></li><li><p>Mail.</p></li></ol>
   - template: simple-footer
     block: footer-1
-    content: Made with ❤︎ in Uruwhy
+    content: Hecho con ❤︎ in Uruwhy
 ---
