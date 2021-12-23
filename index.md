@@ -19,7 +19,7 @@ page_sections:
     cta:
       enabled: true
       url: https://t.me/yendingbot?start=1
-      button_text: "Pedir viaje"
+      button_text: "Empezar"
     image:
       image: "/uploads/2018/06/21/mockup.png"
       alt_text: Product Shot
