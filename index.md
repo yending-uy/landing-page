@@ -144,7 +144,7 @@ page_sections:
          </tr>
        </tbody>
       </table>  
-        *El precio es el mismo en ambos sentidos. Tarifa a pagar por el pasajero. Yending retendrá el 10% de la tarifa en concepto de comisión de cada viaje.
+        *El precio es el mismo en ambos sentidos. Tarifa a pagar por el pasajero. Yending retendrá el 10% de la tarifa en concepto de gastos de gestión de cada viaje.
   - template: simple-footer
     block: footer-1
     content: <a href="/terminosycondiciones">Términos y Condiciones</a>
