@@ -59,7 +59,7 @@ page_sections:
     headline: Tarifas pre-establecidas y fijas
     content: |
       El pasajero abonará el trayecto antes de la partida a través de MercadoPago.
-      <br>Yending transferirá la tarifa al conducto una vez se haya completado el trayecto.
+      <br>Yending transferirá la tarifa al conductor una vez se haya completado el trayecto.
       <table border="1" class="dataframe">
        <thead>
          <tr style="text-align: right;">
